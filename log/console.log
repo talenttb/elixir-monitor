@@ -1,0 +1,358 @@
+2019-12-18 10:45:50.423 [error] <0.186.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.191.0> exit with reason normal in context child_terminated
+2019-12-18 10:45:50.500 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 10:45:50.508 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 10:45:50.531 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 10:45:50.536 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 10:45:50.538 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 10:45:50.546 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 10:45:50.548 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 10:45:50.577 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 10:45:50.577 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 10:45:50.583 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 10:45:50.585 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 10:45:50.585 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 10:45:50.586 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 10:45:50.590 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 10:45:50.592 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 10:45:50.606 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 10:45:50.622 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 10:45:50.627 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 10:45:50.630 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 10:45:50.631 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 10:45:50.663 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 11:00:38.832 [error] <0.201.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.206.0> exit with reason normal in context child_terminated
+2019-12-18 11:00:38.882 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 11:00:38.889 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 11:00:38.911 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 11:00:38.917 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 11:00:38.919 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 11:00:38.926 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 11:00:38.928 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 11:00:38.952 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 11:00:38.952 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 11:00:38.959 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 11:00:38.962 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 11:00:38.962 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 11:00:38.963 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 11:00:38.968 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 11:00:38.972 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 11:00:38.984 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 11:00:39.000 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 11:00:39.006 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 11:00:39.011 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 11:00:39.018 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 11:00:39.048 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 11:23:56.655 [error] <0.201.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.206.0> exit with reason normal in context child_terminated
+2019-12-18 11:23:56.706 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 11:23:56.715 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 11:23:56.738 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 11:23:56.742 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 11:23:56.745 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 11:23:56.752 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 11:23:56.753 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 11:23:56.781 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 11:23:56.781 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 11:23:56.789 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 11:23:56.793 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 11:23:56.793 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 11:23:56.793 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 11:23:56.799 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 11:23:56.802 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 11:23:56.823 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 11:23:56.839 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 11:23:56.839 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 11:23:56.845 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 11:23:56.847 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 11:23:56.932 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 11:26:11.839 [error] <0.195.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.200.0> exit with reason normal in context child_terminated
+2019-12-18 11:26:11.888 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 11:26:11.897 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 11:26:11.919 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 11:26:11.927 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 11:26:11.930 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 11:26:11.940 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 11:26:11.943 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 11:26:11.973 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 11:26:11.974 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 11:26:11.982 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 11:26:11.985 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 11:26:11.985 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 11:26:11.987 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 11:26:11.992 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 11:26:11.994 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 11:26:12.003 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 11:26:12.015 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 11:26:12.023 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 11:26:12.027 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 11:26:12.033 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 11:26:12.181 [error] <0.338.0>@Elixir.ElixirPopularity.RMQPublisher:create_rmq_resources:41 CRASH REPORT Process <0.338.0> with 0 neighbours crashed with reason: no match of right hand value {error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}} in 'Elixir.ElixirPopularity.RMQPublisher':create_rmq_resources/0 line 41
+2019-12-18 11:26:12.186 [error] <0.323.0>@Elixir.ElixirPopularity.RMQPublisher:create_rmq_resources:41 Supervisor 'Elixir.ElixirPopularity.Supervisor' had child 'Elixir.ElixirPopularity.RMQPublisher' started with 'Elixir.ElixirPopularity.RMQPublisher':start_link() at undefined exit with reason no match of right hand value {error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}} in 'Elixir.ElixirPopularity.RMQPublisher':create_rmq_resources/0 line 41 in context start_error
+2019-12-18 11:26:12.187 [error] <0.321.0> CRASH REPORT Process <0.321.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ElixirPopularity.RMQPublisher',{{badmatch,{error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}}},[{'Elixir.ElixirPopularity.RMQPublisher',create_rmq_resources,0,[{file,"lib/rmq_publisher.ex"},{line,41}]},{'Elixir.ElixirPopularity.RMQPublisher',init,0,[{file,"lib/rmq_publisher.ex"},{line,11}]},{'Elixir.GenRMQ.Publisher',init,1,[{file,"lib/publisher.ex"},{line,211}]},{gen_server,...},...]}}},...} in application_master:init/4 line 134
+2019-12-18 11:26:12.288 [info] <0.33.0> Application elixir_popularity exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ElixirPopularity.RMQPublisher',{{badmatch,{error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}}},[{'Elixir.ElixirPopularity.RMQPublisher',create_rmq_resources,0,[{file,"lib/rmq_publisher.ex"},{line,41}]},{'Elixir.ElixirPopularity.RMQPublisher',init,0,[{file,"lib/rmq_publisher.ex"},{line,11}]},{'Elixir.GenRMQ.Publisher',init,1,[{file,"lib/publisher.ex"},{line,211}]},{gen_server,...},...]}}},...}
+2019-12-18 11:43:33.840 [error] <0.186.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.191.0> exit with reason normal in context child_terminated
+2019-12-18 11:43:33.890 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 11:43:33.897 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 11:43:33.918 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 11:43:33.923 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 11:43:33.925 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 11:43:33.931 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 11:43:33.933 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 11:43:33.957 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 11:43:33.957 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 11:43:33.967 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 11:43:33.970 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 11:43:33.970 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 11:43:33.971 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 11:43:33.974 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 11:43:33.977 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 11:43:33.995 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 11:43:34.026 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 11:43:34.026 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 11:43:34.027 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 11:43:34.027 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 11:43:34.180 [error] <0.329.0>@Elixir.ElixirPopularity.RMQPublisher:create_rmq_resources:41 CRASH REPORT Process <0.329.0> with 0 neighbours crashed with reason: no match of right hand value {error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}} in 'Elixir.ElixirPopularity.RMQPublisher':create_rmq_resources/0 line 41
+2019-12-18 11:43:34.180 [error] <0.314.0>@Elixir.ElixirPopularity.RMQPublisher:create_rmq_resources:41 Supervisor 'Elixir.ElixirPopularity.Supervisor' had child 'Elixir.ElixirPopularity.RMQPublisher' started with 'Elixir.ElixirPopularity.RMQPublisher':start_link() at undefined exit with reason no match of right hand value {error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}} in 'Elixir.ElixirPopularity.RMQPublisher':create_rmq_resources/0 line 41 in context start_error
+2019-12-18 11:43:34.181 [error] <0.312.0> CRASH REPORT Process <0.312.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ElixirPopularity.RMQPublisher',{{badmatch,{error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}}},[{'Elixir.ElixirPopularity.RMQPublisher',create_rmq_resources,0,[{file,"lib/rmq_publisher.ex"},{line,41}]},{'Elixir.ElixirPopularity.RMQPublisher',init,0,[{file,"lib/rmq_publisher.ex"},{line,11}]},{'Elixir.GenRMQ.Publisher',init,1,[{file,"lib/publisher.ex"},{line,211}]},{gen_server,...},...]}}},...} in application_master:init/4 line 134
+2019-12-18 11:43:34.266 [info] <0.33.0> Application elixir_popularity exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ElixirPopularity.RMQPublisher',{{badmatch,{error,{auth_failure,"ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."}}},[{'Elixir.ElixirPopularity.RMQPublisher',create_rmq_resources,0,[{file,"lib/rmq_publisher.ex"},{line,41}]},{'Elixir.ElixirPopularity.RMQPublisher',init,0,[{file,"lib/rmq_publisher.ex"},{line,11}]},{'Elixir.GenRMQ.Publisher',init,1,[{file,"lib/publisher.ex"},{line,211}]},{gen_server,...},...]}}},...}
+2019-12-18 11:57:53.295 [error] <0.195.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.200.0> exit with reason normal in context child_terminated
+2019-12-18 11:57:53.344 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 11:57:53.356 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 11:57:53.395 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 11:57:53.405 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 11:57:53.412 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 11:57:53.424 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 11:57:53.428 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 11:57:53.465 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 11:57:53.465 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 11:57:53.474 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 11:57:53.478 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 11:57:53.478 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 11:57:53.480 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 11:57:53.487 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 11:57:53.491 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 11:57:53.506 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 11:57:53.519 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 11:57:53.525 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 11:57:53.530 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 11:57:53.536 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 11:57:53.723 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 12:02:26.874 [warning] <0.344.0> Connection (<0.344.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 12:02:26.874 [warning] <0.358.0> Connection (<0.358.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 12:12:17.178 [warning] <0.408.0> Connection (<0.408.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 14:28:43.454 [error] <0.1911.0> gen_server <0.1911.0> terminated with reason: {socket_error,timeout}
+2019-12-18 14:28:43.519 [error] <0.1911.0> CRASH REPORT Process <0.1911.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 14:28:43.561 [error] <0.1907.0> gen_server <0.1907.0> terminated with reason: {socket_error,timeout}
+2019-12-18 14:28:43.562 [error] <0.1907.0> CRASH REPORT Process <0.1907.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 14:28:43.562 [error] <0.1906.0> Supervisor {<0.1906.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11044>, <0.1907.0>, <0.1909.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49398 -> 127.0.0.1:5672">>) at <0.1911.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 14:28:43.563 [error] <0.1906.0> Supervisor {<0.1906.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11044>, <0.1907.0>, <0.1909.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49398 -> 127.0.0.1:5672">>) at <0.1911.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 14:28:43.563 [error] <0.1905.0> Supervisor {<0.1905.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.1906.0>, {amqp_params_network,<<"rabbitmq">>,<<"aWFnQ4O0RL+j6BKoZWeTupy+f3YLc7es5pPscM4V9ZGwfc4j2I32hAO3MTX...">>,...}) at <0.1907.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 14:28:43.563 [error] <0.1905.0> Supervisor {<0.1905.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.1906.0>, {amqp_params_network,<<"rabbitmq">>,<<"aWFnQ4O0RL+j6BKoZWeTupy+f3YLc7es5pPscM4V9ZGwfc4j2I32hAO3MTX...">>,...}) at <0.1907.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 14:35:59.534 [warning] <0.1929.0> Connection (<0.1929.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 14:38:42.473 [warning] <0.1966.0> Connection (<0.1966.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 14:39:08.931 [warning] <0.2002.0> Connection (<0.2002.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 14:39:58.678 [warning] <0.2045.0> Connection (<0.2045.0>) closing: received hard error {'connection.close',320,<<"CONNECTION_FORCED - broker forced connection closure with reason 'shutdown'">>,0,0} from server
+2019-12-18 14:40:48.309 [error] <0.338.0>@gen_server:call gen_server 'Elixir.ElixirPopularity.RMQPublisher' terminated with reason: no such process or port in call to gen_server:call(<0.2088.0>, {close,200,<<"Goodbye">>}, 60000) in gen_server:call/3 line 214
+2019-12-18 14:40:48.324 [error] <0.338.0>@gen_server:call CRASH REPORT Process 'Elixir.ElixirPopularity.RMQPublisher' with 0 neighbours exited with reason: no such process or port in call to gen_server:call(<0.2088.0>, {close,200,<<"Goodbye">>}, 60000) in gen_server:call/3 line 214
+2019-12-18 14:40:48.326 [error] <0.323.0>@gen_server:call Supervisor 'Elixir.ElixirPopularity.Supervisor' had child 'Elixir.ElixirPopularity.RMQPublisher' started with 'Elixir.ElixirPopularity.RMQPublisher':start_link() at <0.338.0> exit with reason no such process or port in call to gen_server:call(<0.2088.0>, {close,200,<<"Goodbye">>}, 60000) in context child_terminated
+2019-12-18 15:42:57.968 [error] <0.2112.0> gen_server <0.2112.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:57.974 [error] <0.2112.0> CRASH REPORT Process <0.2112.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:57.974 [error] <0.2099.0> gen_server <0.2099.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:58.006 [error] <0.2099.0> CRASH REPORT Process <0.2099.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:58.006 [error] <0.2083.0> gen_server <0.2083.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:58.009 [error] <0.2083.0> CRASH REPORT Process <0.2083.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:58.013 [error] <0.2108.0> gen_server <0.2108.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:58.014 [error] <0.2108.0> CRASH REPORT Process <0.2108.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:58.017 [error] <0.2106.0> Supervisor {<0.2106.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2107.0>, {amqp_params_network,<<"rabbitmq">>,<<"9wUoMGevifx2RNzgxtCBDZXL7ar1ijRQ+0vZ8jnb9hjByMJsYCKlQAKRDSl...">>,...}) at <0.2108.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.018 [error] <0.2107.0> Supervisor {<0.2107.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11434>, <0.2108.0>, <0.2110.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49963 -> 127.0.0.1:5672">>) at <0.2112.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.019 [error] <0.2107.0> Supervisor {<0.2107.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11434>, <0.2108.0>, <0.2110.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49963 -> 127.0.0.1:5672">>) at <0.2112.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 15:42:58.020 [error] <0.2094.0> gen_server <0.2094.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:58.020 [error] <0.2094.0> CRASH REPORT Process <0.2094.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:58.021 [error] <0.2093.0> Supervisor {<0.2093.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11319>, <0.2094.0>, <0.2097.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49961 -> 127.0.0.1:5672">>) at <0.2099.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.022 [error] <0.2093.0> Supervisor {<0.2093.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11319>, <0.2094.0>, <0.2097.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49961 -> 127.0.0.1:5672">>) at <0.2099.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 15:42:58.022 [error] <0.2079.0> gen_server <0.2079.0> terminated with reason: {socket_error,timeout}
+2019-12-18 15:42:58.023 [error] <0.2079.0> CRASH REPORT Process <0.2079.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 15:42:58.023 [error] <0.2078.0> Supervisor {<0.2078.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11281>, <0.2079.0>, <0.2081.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49944 -> 127.0.0.1:5672">>) at <0.2083.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.024 [error] <0.2078.0> Supervisor {<0.2078.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11281>, <0.2079.0>, <0.2081.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:49944 -> 127.0.0.1:5672">>) at <0.2083.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 15:42:58.025 [error] <0.2077.0> Supervisor {<0.2077.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2078.0>, {amqp_params_network,<<"rabbitmq">>,<<"Q0yr2rjMT4AZ88tdZ2y6Ok0nQDa+62xuW0arpvi1sAx7Fo1CFnstw/pJ7Bb...">>,...}) at <0.2079.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.027 [error] <0.2077.0> Supervisor {<0.2077.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2078.0>, {amqp_params_network,<<"rabbitmq">>,<<"Q0yr2rjMT4AZ88tdZ2y6Ok0nQDa+62xuW0arpvi1sAx7Fo1CFnstw/pJ7Bb...">>,...}) at <0.2079.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 15:42:58.028 [error] <0.2106.0> Supervisor {<0.2106.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2107.0>, {amqp_params_network,<<"rabbitmq">>,<<"9wUoMGevifx2RNzgxtCBDZXL7ar1ijRQ+0vZ8jnb9hjByMJsYCKlQAKRDSl...">>,...}) at <0.2108.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 15:42:58.029 [error] <0.2092.0> Supervisor {<0.2092.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2093.0>, {amqp_params_network,<<"rabbitmq">>,<<"qf0xIC1vLLuXYmIOO0nGTTN8Ddjbzwwf/A+bE+51gSnhkQf77Dra72qwul4...">>,...}) at <0.2094.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 15:42:58.030 [error] <0.2092.0> Supervisor {<0.2092.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2093.0>, {amqp_params_network,<<"rabbitmq">>,<<"qf0xIC1vLLuXYmIOO0nGTTN8Ddjbzwwf/A+bE+51gSnhkQf77Dra72qwul4...">>,...}) at <0.2094.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 16:07:55.737 [error] <0.2145.0> gen_server <0.2145.0> terminated with reason: {socket_error,timeout}
+2019-12-18 16:07:55.748 [error] <0.2145.0> CRASH REPORT Process <0.2145.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 16:07:55.749 [error] <0.2141.0> gen_server <0.2141.0> terminated with reason: {socket_error,timeout}
+2019-12-18 16:07:55.755 [error] <0.2141.0> CRASH REPORT Process <0.2141.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 16:07:55.756 [error] <0.2140.0> Supervisor {<0.2140.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11443>, <0.2141.0>, <0.2143.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:50644 -> 127.0.0.1:5672">>) at <0.2145.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 16:07:55.756 [error] <0.2140.0> Supervisor {<0.2140.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.11443>, <0.2141.0>, <0.2143.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:50644 -> 127.0.0.1:5672">>) at <0.2145.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 16:07:55.760 [error] <0.2139.0> Supervisor {<0.2139.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2140.0>, {amqp_params_network,<<"rabbitmq">>,<<"VwwA1U8E2n8xVJZvDhT+pNZrP15bFHLPq3FjQtOo1eXh1dLSOn7cF3xuJdK...">>,...}) at <0.2141.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 16:07:55.764 [error] <0.2139.0> Supervisor {<0.2139.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.2140.0>, {amqp_params_network,<<"rabbitmq">>,<<"VwwA1U8E2n8xVJZvDhT+pNZrP15bFHLPq3FjQtOo1eXh1dLSOn7cF3xuJdK...">>,...}) at <0.2141.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 16:36:45.972 [error] <0.201.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.206.0> exit with reason normal in context child_terminated
+2019-12-18 16:36:46.015 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 16:36:46.022 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 16:36:46.043 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 16:36:46.050 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 16:36:46.052 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 16:36:46.060 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 16:36:46.063 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 16:36:46.096 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 16:36:46.096 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 16:36:46.103 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 16:36:46.106 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 16:36:46.106 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 16:36:46.108 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 16:36:46.114 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 16:36:46.118 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 16:36:46.139 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 16:36:46.165 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 16:36:46.171 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 16:36:46.176 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 16:36:46.183 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 16:36:46.404 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 17:06:55.106 [error] <0.355.0> gen_server <0.355.0> terminated with reason: {socket_error,timeout}
+2019-12-18 17:06:55.140 [error] <0.350.0> gen_server <0.350.0> terminated with reason: {socket_error,timeout}
+2019-12-18 17:06:55.182 [error] <0.350.0> CRASH REPORT Process <0.350.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 17:06:55.182 [error] <0.355.0> CRASH REPORT Process <0.355.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 17:06:55.182 [error] <0.370.0> gen_server <0.370.0> terminated with reason: {socket_error,timeout}
+2019-12-18 17:06:55.183 [error] <0.348.0> Supervisor {<0.348.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.349.0>, {amqp_params_network,<<"rabbitmq">>,<<"eC3bbrYlhDJzFoGqa5/GuKvDqLInovYpannRCeCOB612F039f3VAQk3sW34...">>,...}) at <0.350.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 17:06:55.183 [error] <0.370.0> CRASH REPORT Process <0.370.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 17:06:55.183 [error] <0.348.0> Supervisor {<0.348.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.349.0>, {amqp_params_network,<<"rabbitmq">>,<<"eC3bbrYlhDJzFoGqa5/GuKvDqLInovYpannRCeCOB612F039f3VAQk3sW34...">>,...}) at <0.350.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 17:06:55.183 [error] <0.349.0> Supervisor {<0.349.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.9822>, <0.350.0>, <0.353.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:51921 -> 127.0.0.1:5672">>) at <0.355.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 17:06:55.184 [error] <0.349.0> Supervisor {<0.349.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.9822>, <0.350.0>, <0.353.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:51921 -> 127.0.0.1:5672">>) at <0.355.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 17:06:55.184 [error] <0.364.0> Supervisor {<0.364.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.10197>, <0.365.0>, <0.368.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:51922 -> 127.0.0.1:5672">>) at <0.370.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 17:06:55.184 [error] <0.365.0> gen_server <0.365.0> terminated with reason: {socket_error,timeout}
+2019-12-18 17:06:55.184 [error] <0.364.0> Supervisor {<0.364.0>,amqp_connection_type_sup} had child main_reader started with amqp_main_reader:start_link(#Port<0.10197>, <0.365.0>, <0.368.0>, {method,rabbit_framing_amqp_0_9_1}, <<"client 127.0.0.1:51922 -> 127.0.0.1:5672">>) at <0.370.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 17:06:55.185 [error] <0.365.0> CRASH REPORT Process <0.365.0> with 0 neighbours exited with reason: {socket_error,timeout} in gen_server:handle_common_reply/8 line 726
+2019-12-18 17:06:55.185 [error] <0.363.0> Supervisor {<0.363.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.364.0>, {amqp_params_network,<<"rabbitmq">>,<<"ldH8QxC4yh31BxwqKhKRnixlMucXKpv+jyYLjM4yh+EBHV8D0bLdtUPNLSh...">>,...}) at <0.365.0> exit with reason {socket_error,timeout} in context child_terminated
+2019-12-18 17:06:55.185 [error] <0.363.0> Supervisor {<0.363.0>,amqp_connection_sup} had child connection started with amqp_gen_connection:start_link(<0.364.0>, {amqp_params_network,<<"rabbitmq">>,<<"ldH8QxC4yh31BxwqKhKRnixlMucXKpv+jyYLjM4yh+EBHV8D0bLdtUPNLSh...">>,...}) at <0.365.0> exit with reason reached_max_restart_intensity in context shutdown
+2019-12-18 17:08:49.816 [error] <0.186.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.191.0> exit with reason normal in context child_terminated
+2019-12-18 17:08:49.919 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 17:08:49.927 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 17:08:49.948 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 17:08:49.952 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 17:08:49.954 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 17:08:49.962 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 17:08:49.964 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 17:08:49.987 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 17:08:49.988 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 17:08:49.996 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 17:08:49.999 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 17:08:49.999 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 17:08:50.000 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 17:08:50.005 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 17:08:50.007 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 17:08:50.020 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 17:08:50.039 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 17:08:50.047 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 17:08:50.052 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 17:08:50.055 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 17:08:50.258 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 17:29:45.413 [error] <0.196.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.201.0> exit with reason normal in context child_terminated
+2019-12-18 17:29:45.465 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 17:29:45.471 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 17:29:45.495 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 17:29:45.500 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 17:29:45.502 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 17:29:45.512 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 17:29:45.515 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 17:29:45.541 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 17:29:45.541 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 17:29:45.548 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 17:29:45.551 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 17:29:45.551 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 17:29:45.552 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 17:29:45.557 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 17:29:45.560 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 17:29:45.571 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 17:29:45.585 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 17:29:45.593 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 17:29:45.597 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 17:29:45.603 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 17:29:45.826 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 17:32:19.933 [error] <0.195.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.200.0> exit with reason normal in context child_terminated
+2019-12-18 17:32:19.979 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 17:32:19.985 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 17:32:20.037 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 17:32:20.047 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 17:32:20.049 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 17:32:20.061 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 17:32:20.063 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 17:32:20.086 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 17:32:20.086 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 17:32:20.093 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 17:32:20.095 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 17:32:20.095 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 17:32:20.096 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 17:32:20.101 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 17:32:20.103 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 17:32:20.117 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 17:32:20.133 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 17:32:20.133 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 17:32:20.136 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 17:32:20.138 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 17:32:20.983 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 17:33:34.218 [error] <0.186.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.191.0> exit with reason normal in context child_terminated
+2019-12-18 17:33:34.263 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 17:33:34.270 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 17:33:34.289 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 17:33:34.296 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 17:33:34.298 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 17:33:34.311 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 17:33:34.311 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 17:33:34.330 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 17:33:34.330 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 17:33:34.337 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 17:33:34.339 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 17:33:34.339 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 17:33:34.341 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 17:33:34.346 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 17:33:34.348 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 17:33:34.373 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 17:33:34.374 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 17:33:34.374 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 17:33:34.378 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 17:33:34.379 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 17:33:35.190 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-18 17:58:46.411 [error] <0.206.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.211.0> exit with reason normal in context child_terminated
+2019-12-18 17:58:46.464 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-18 17:58:46.470 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-18 17:58:46.494 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-18 17:58:46.500 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-18 17:58:46.501 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-18 17:58:46.509 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-18 17:58:46.512 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-18 17:58:46.539 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-18 17:58:46.539 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-18 17:58:46.547 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-18 17:58:46.550 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-18 17:58:46.550 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-18 17:58:46.551 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-18 17:58:46.556 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-18 17:58:46.559 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-18 17:58:46.572 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-18 17:58:46.588 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-18 17:58:46.595 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-18 17:58:46.600 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-18 17:58:46.606 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-18 17:58:48.214 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost
+2019-12-19 15:25:30.013 [error] <0.195.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.200.0> exit with reason normal in context child_terminated
+2019-12-19 15:25:30.063 [info] <0.33.0> Application lager started on node nonode@nohost
+2019-12-19 15:25:30.071 [info] <0.33.0> Application xmerl started on node nonode@nohost
+2019-12-19 15:25:30.098 [info] <0.33.0> Application sasl started on node nonode@nohost
+2019-12-19 15:25:30.103 [info] <0.33.0> Application tools started on node nonode@nohost
+2019-12-19 15:25:30.105 [info] <0.33.0> Application jsx started on node nonode@nohost
+2019-12-19 15:25:30.114 [info] <0.33.0> Application ranch started on node nonode@nohost
+2019-12-19 15:25:30.117 [info] <0.33.0> Application recon started on node nonode@nohost
+2019-12-19 15:25:30.146 [info] <0.33.0> Application credentials_obfuscation started on node nonode@nohost
+2019-12-19 15:25:30.147 [info] <0.33.0> Application rabbit_common started on node nonode@nohost
+2019-12-19 15:25:30.154 [info] <0.33.0> Application amqp_client started on node nonode@nohost
+2019-12-19 15:25:30.157 [info] <0.33.0> Application amqp started on node nonode@nohost
+2019-12-19 15:25:30.157 [info] <0.33.0> Application broadway_rabbitmq started on node nonode@nohost
+2019-12-19 15:25:30.158 [info] <0.33.0> Application gen_rmq started on node nonode@nohost
+2019-12-19 15:25:30.164 [info] <0.33.0> Application connection started on node nonode@nohost
+2019-12-19 15:25:30.166 [info] <0.33.0> Application decimal started on node nonode@nohost
+2019-12-19 15:25:30.188 [info] <0.33.0> Application db_connection started on node nonode@nohost
+2019-12-19 15:25:30.207 [info] <0.33.0> Application postgrex started on node nonode@nohost
+2019-12-19 15:25:30.207 [info] <0.33.0> Application telemetry started on node nonode@nohost
+2019-12-19 15:25:30.207 [info] <0.33.0> Application ecto started on node nonode@nohost
+2019-12-19 15:25:30.209 [info] <0.33.0> Application ecto_sql started on node nonode@nohost
+2019-12-19 15:25:31.198 [info] <0.33.0> Application elixir_popularity started on node nonode@nohost

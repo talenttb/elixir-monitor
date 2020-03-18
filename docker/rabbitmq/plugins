@@ -1,0 +1,3 @@
+[rabbitmq_federation_management,rabbitmq_management,rabbitmq_mqtt,rabbitmq_stomp,rabbitmq_prometheus,prometheus_rabbitmq_exporter].
+
+ 
